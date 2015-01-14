@@ -1,0 +1,6 @@
+C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\classes\debug
+C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c6ee84031d3cce41347955c6755fdac3a4a081cc.jar
+C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\classes-4de7b687e4f2083d9736d7fd9df6cb89c59f3615.jar
+C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-86d8e4209b3f7e930c526434f969c32426ef3f8b.jar
+C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\classes-d743f2df27bd45d37a84bf2088b6024a047622ad.jar
+C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\classes-b5080623d0fec66a63f547f19df7b5f44e53f3c3.jar

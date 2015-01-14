@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\exploded-aar\AndroidPinning-1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5622527508e8ff6dd295d7cbacde63850ec3548d">
+        <dex dex="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\classes-4de7b687e4f2083d9736d7fd9df6cb89c59f3615.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\classes-b5080623d0fec66a63f547f19df7b5f44e53f3c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\classes-d743f2df27bd45d37a84bf2088b6024a047622ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ajin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c6ee84031d3cce41347955c6755fdac3a4a081cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Ajin\Desktop\SSLPinning old\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-86d8e4209b3f7e930c526434f969c32426ef3f8b.jar" />
+    </item>
+
+</items>
