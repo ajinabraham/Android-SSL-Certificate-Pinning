@@ -39,19 +39,20 @@ public class MainActivity extends ActionBarActivity {
                     String[] pins                 = new String[] {"87dbd45fb0928d4e1df81567e7f2abafd62b6775"}; //Valid till 28-01-2028
                     URL url                       = new URL("https://en.wikipedia.org/wiki/Main_Page");
                     HttpsURLConnection connection = PinningHelper.getPinnedHttpsURLConnection(getBaseContext(), pins, url);
-                   byte[] data = new byte[4096];
+                    byte[] data = new byte[4096];
                     connection.getInputStream().read(data);
-
+                    String str = new String(data);
+                    Toast.makeText(mContext, "Success No MITM" + str, Toast.LENGTH_LONG).show();
+                    
                     Log.i("SSL-PINNING", "Success No MITM" + data);
-
+                    
                 }
                 catch(Exception e)
                 {
-
-
+                    
+                    Toast.makeText(mContext, "MITM Detected !!!" + e.getMessage().toString(), Toast.LENGTH_LONG).show();
                     Log.i("SSL-PINNING", " MITM Detected!!!!!: " + e.getMessage().toString());
-                }
-            }
+                }            }
         });
 
     }
